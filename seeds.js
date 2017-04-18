@@ -11,7 +11,7 @@ db.dogs.insert([
   breed:"Golden Retriever",
   size:"Large"
 }
-  ]) }
-}
+  ]) 
+
 
 
