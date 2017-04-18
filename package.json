@@ -1,0 +1,23 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seeds.js",
+  "scripts": {
+    "start":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrown60/MongodbHomework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrown60/MongodbHomework/issues"
+  },
+  "homepage": "https://github.com/cbrown60/MongodbHomework#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
